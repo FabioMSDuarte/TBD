@@ -1,0 +1,22 @@
+# Ignore virtual environments
+.venv
+venv
+env
+.env
+# Ignore all of .idea initially
+.idea/
+
+# Allow specific files and directories
+!.idea/codeStyles
+!.idea/codeStyles/Project.xml
+!.idea/inspectionProfiles
+!.idea/misc.xml
+
+# Exclude specific files
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/.name
+
+stepByStep.txt
+
+src
